@@ -43,7 +43,7 @@ namespace pk31Chat
                 MessageBox.Show("Логин должен быть от 3 до 20 символов");
             }
         }
-
+        //pupupu
         private void Form1_Load(object sender, EventArgs e)
         {
             label2.Visible = false;
